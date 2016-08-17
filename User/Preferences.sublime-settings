@@ -15,7 +15,9 @@
 	[
 		"AngularJS",
 		"Diffy",
+		"GraphvizPreview",
 		"LiveReload",
+		"Meteor Autocomplete (TernJS)",
 		"Sass"
 	],
 	"indent_guide_options":
